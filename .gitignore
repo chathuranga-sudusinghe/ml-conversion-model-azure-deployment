@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ML model artifacts
+*.pkl
+models/*.pkl
+
+# Data files
+data/
+*.csv

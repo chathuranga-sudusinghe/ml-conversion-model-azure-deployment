@@ -1,0 +1,9 @@
+venv
+data
+notebooks
+processed
+.git
+__pycache__
+tests
+docker
+*.pyc
