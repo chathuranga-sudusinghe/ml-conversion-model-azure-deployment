@@ -7,7 +7,6 @@
 ![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
 ![Azure](https://img.shields.io/badge/Azure-Deployed-0078D4)
 ![Tests](https://img.shields.io/badge/Tests-pytest-success)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 Production-ready Machine Learning API built with:
