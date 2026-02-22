@@ -248,6 +248,7 @@ pytest
 Chathuranga Sudusinghe  
 AI Systems Engineer | Production ML | FastAPI | Azure | Docker
 
+https://www.linkedin.com/in/chathuranga-sudusinghe
 ---
 
 
