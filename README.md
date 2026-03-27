@@ -245,11 +245,11 @@ pytest
 ---
 ## Author
 
-Chathuranga Sudusinghe  
-AI Systems Engineer | Production ML | FastAPI | Azure | Docker
+**Chathuranga Sudusinghe**  
+AI Systems Engineer | Generative AI & LLM Architect | Production ML & MLOps | Decision-Centric AI Systems
 
-https://www.linkedin.com/in/chathuranga-sudusinghe
-
+LinkedIn: https://www.linkedin.com/in/chathuranga-sudusinghe  
+GitHub: https://github.com/chathuranga-sudusinghe
 
 ---
 
