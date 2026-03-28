@@ -1,12 +1,12 @@
 # ML Conversion Model – Azure Deployment
 
-![CI](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Production-green)
 ![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange)
 ![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
 ![Azure](https://img.shields.io/badge/Azure-Deployed-0078D4)
 ![Tests](https://img.shields.io/badge/Tests-pytest-success)
+![CI](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/actions/workflows/ci.yml/badge.svg)
 
 ---
 Production-ready Machine Learning API built with:
